@@ -10,7 +10,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "onnxruntime-common": "^1.10.0",
     "onnxruntime-react-native": "^1.8.1",
     "react": "17.0.2",
     "react-native": "0.67.4"

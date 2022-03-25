@@ -5013,11 +5013,6 @@
   dependencies:
     "mimic-fn" "^2.1.0"
 
-"onnxruntime-common@^1.10.0":
-  "integrity" "sha512-nZDfMnnD1c5Q7iXu743Mjz10Fuct0hLZmRP848pyQhSoOrof44Z2KknBBTo9Y26zVQgZkzRmQAIRYqfhefBzgQ=="
-  "resolved" "https://registry.npmjs.org/onnxruntime-common/-/onnxruntime-common-1.10.0.tgz"
-  "version" "1.10.0"
-
 "onnxruntime-common@~1.8.0":
   "integrity" "sha512-MNTUohJaxA87y8+981lVcrzbwyA1ZrLze44nhFvyZoOxYVM1KdgPfVE5T8e8vZBddRXyOv9cRq3NOhPvKYi85Q=="
   "resolved" "https://registry.npmjs.org/onnxruntime-common/-/onnxruntime-common-1.8.0.tgz"
